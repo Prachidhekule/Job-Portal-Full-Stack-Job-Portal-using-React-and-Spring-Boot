@@ -1,0 +1,25 @@
+# React frontend
+react-ui/node_modules/
+react-ui/build/
+react-ui/dist/
+
+# Spring Boot backend
+spring-boot-rest/target/
+
+# IntelliJ
+spring-boot-rest/.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
